@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="standaard_tokio_regels"
+        android:label="Standaard Tokio Regels"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
