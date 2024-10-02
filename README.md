@@ -1,16 +1,3 @@
-# standaard_tokio_regels
+# Standaard Tokio Regels
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app is a simple companion app for the game Standaard Tokio Regels, invented by Bas and Sil. The app is designed to help players keep track of their score during the game, as well as provide a simple way to determine the target score and minigame results. All credits for the game itself go to Bas and Sil.
